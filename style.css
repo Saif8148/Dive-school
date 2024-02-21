@@ -94,6 +94,11 @@ color:white;
 text-decoration: none;
 color:white;
 }
-
-
-
+.icon
+{
+    color: #152040;
+}
+.icon:hover
+{
+color: aliceblue;
+}
